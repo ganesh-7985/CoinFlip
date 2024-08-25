@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
-    "ethers": "^6.13.2",
+    "ethers": "^5.7.2",
     "hardhat": "^2.22.9",
     "postcss": "^8.4.41",
     "react": "^18.3.1",
